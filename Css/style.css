@@ -18,3 +18,9 @@ img{
 .projects{
     grid-row: span 2;   
 }
+
+@media (max-width: 575.98px) {
+    .resume{
+        display: block;
+    }
+   }
