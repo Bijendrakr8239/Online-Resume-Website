@@ -6,6 +6,12 @@
     background-color: aliceblue;
 
 }
+a:link{
+    color: black;
+}
+a:hover{
+    color: blue;
+}
 
 .objective > h1,p{
     padding: 10px;
