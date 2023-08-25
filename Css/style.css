@@ -12,7 +12,9 @@ a:link{
 a:hover{
     color: blue;
 }
-
+a:visited{
+    color: black;
+}
 .objective > h1,p{
     padding: 10px;
 }
